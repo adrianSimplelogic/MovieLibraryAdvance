@@ -18,10 +18,10 @@ public class MovieLibrary {
     //moje bazgroły
     //treśc zadania https://github.com/mtadla-simplelogic/MovieLibraryAdvanced
 
-    public void getMoviesFromTo(int s,int e){
-        for (Movie movies:movies){
-            if (movies.getYear()>=s&&movies.getYear()<=e){
-                System.out.println(movies.getTitle()+"("+movies.getYear()+")");
+    public void getMoviesFromTo(int s, int e) {
+        for (Movie movies : movies) {
+            if (movies.getYear() >= s && movies.getYear() <= e) {
+                System.out.println(movies.getTitle() + "(" + movies.getYear() + ")");
                 System.out.println("========================================");
             }
         }
@@ -35,7 +35,7 @@ public class MovieLibrary {
 
     public void findMovies(String fn, String ln) {
         for (Movie movie : movies) {
-            if (movie.getActors().toString().contains(fn)&&movie.getActors().toString().contains(ln)) {
+            if (movie.getActors().toString().contains(fn) && movie.getActors().toString().contains(ln)) {
                 System.out.println(movie);
                 System.out.println("========================================");
             }
