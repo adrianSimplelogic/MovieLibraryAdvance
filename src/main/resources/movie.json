@@ -1,0 +1,73 @@
+{
+  "movies": [
+    {
+      "title": "Predator",
+      "director": {
+        "fName": "Qwerty",
+        "lName": "Asdf"
+      },
+      "genre": "action",
+      "year": 1987,
+      "actors": [
+        {
+          "fName": "Arnold",
+          "lName": "Szfajceneger"
+        },
+        {
+          "fName": "Aktor2",
+          "lName": "JegoNaziwsko"
+        },
+        {
+          "fName": "Aktor3",
+          "lName": "JegoNawisko2"
+        }
+      ]
+    },
+    {
+      "title": "Predator2",
+      "director": {
+        "fName": "Adolf",
+        "lName": "Nitro"
+      },
+      "genre": "action",
+      "year": 1987,
+      "actors": [
+        {
+          "fName": "Adam",
+          "lName": "Testowy"
+        },
+        {
+          "fName": "Dawid",
+          "lName": "Rambo"
+        },
+        {
+          "fName": "Aktor3",
+          "lName": "JegoNawisko2"
+        }
+      ]
+    },
+    {
+      "title": "Predator kontra obcy",
+      "director": {
+        "fName": "Stiven",
+        "lName": "Rusek"
+      },
+      "genre": "action",
+      "year": 1987,
+      "actors": [
+        {
+          "fName": "Arnold",
+          "lName": "Szfajceneger"
+        },
+        {
+          "fName": "Angelina",
+          "lName": "Dżoli"
+        },
+        {
+          "fName": "Dawid",
+          "lName": "Rambo"
+        }
+      ]
+    }
+  ]
+}
