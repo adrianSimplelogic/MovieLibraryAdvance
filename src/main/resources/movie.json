@@ -3,69 +3,162 @@
     {
       "title": "Predator",
       "director": {
-        "fName": "Qwerty",
-        "lName": "Asdf"
+        "fName": "John",
+        "lName": "McTiernan"
       },
-      "genre": "action",
+      "genre": "action/sci-fi",
       "year": 1987,
       "actors": [
         {
           "fName": "Arnold",
-          "lName": "Szfajceneger"
+          "lName": "Schwarzenegger"
         },
         {
-          "fName": "Aktor2",
-          "lName": "JegoNaziwsko"
+          "fName": "Carl",
+          "lName": "Weathers"
         },
         {
-          "fName": "Aktor3",
-          "lName": "JegoNawisko2"
+          "fName": "Bill",
+          "lName": "Duke"
         }
       ]
     },
     {
-      "title": "Predator2",
+      "title": "Terminator",
       "director": {
-        "fName": "Adolf",
-        "lName": "Nitro"
+        "fName": "James",
+        "lName": "Cameron"
       },
       "genre": "action",
-      "year": 1987,
-      "actors": [
-        {
-          "fName": "Adam",
-          "lName": "Testowy"
-        },
-        {
-          "fName": "Dawid",
-          "lName": "Rambo"
-        },
-        {
-          "fName": "Aktor3",
-          "lName": "JegoNawisko2"
-        }
-      ]
-    },
-    {
-      "title": "Predator kontra obcy",
-      "director": {
-        "fName": "Stiven",
-        "lName": "Rusek"
-      },
-      "genre": "action",
-      "year": 1987,
+      "year": 1984,
       "actors": [
         {
           "fName": "Arnold",
-          "lName": "Szfajceneger"
+          "lName": "Schwarzenegger"
+        },
+        {
+          "fName": "Brett",
+          "lName": "Azar"
+        },
+        {
+          "fName": "Roland",
+          "lName": "Kickinger"
+        }
+      ]
+    },
+    {
+      "title": "Mr. & Mrs. Smith",
+      "director": {
+        "fName": "Doung",
+        "lName": "Liman"
+      },
+      "genre": "action",
+      "year": 2005,
+      "actors": [
+        {
+          "fName": "Brad",
+          "lName": "Pitt"
         },
         {
           "fName": "Angelina",
-          "lName": "Dżoli"
+          "lName": "Jolie"
         },
         {
-          "fName": "Dawid",
-          "lName": "Rambo"
+          "fName": "Vince",
+          "lName": "Vaughn"
+        }
+      ]
+    },
+    {
+      "title": "Lara Croft: Tomb Rider",
+      "director": {
+        "fName": "Simon",
+        "lName": "West"
+      },
+      "genre": "action",
+      "year": 2001,
+      "actors": [
+        {
+          "fName": "Angelina",
+          "lName": "Jolie"
+        },
+        {
+          "fName": "Daniel",
+          "lName": "Craig"
+        },
+        {
+          "fName": "Chris",
+          "lName": "Barrie"
+        }
+      ]
+    },
+    {
+      "title": "Skyfall",
+      "director": {
+        "fName": "Sam",
+        "lName": "Mendes"
+      },
+      "genre": "sensaction",
+      "year": 2012,
+      "actors": [
+        {
+          "fName": "Daniel",
+          "lName": "Craig"
+        },
+        {
+          "fName": "Naomie",
+          "lName": "Harris"
+        },
+        {
+          "fName": "Judi",
+          "lName": "Dench"
+        }
+      ]
+    },
+    {
+      "title": "Cobra",
+      "director": {
+        "fName": "George P.",
+        "lName": "Cosmantos"
+      },
+      "genre": "sensaction, criminal",
+      "year": 1986,
+      "actors": [
+        {
+          "fName": "Sylvester",
+          "lName": "Stallone"
+        },
+        {
+          "fName": "Brigitte",
+          "lName": "Nielsen"
+        },
+        {
+          "fName": "Reni",
+          "lName": "Santoni"
+        }
+      ]
+    },
+    {
+      "title": "Creed: Narodziny Legendy",
+      "director": {
+        "fName": "Ryan",
+        "lName": "Coogler"
+      },
+      "genre": "drama, sport",
+      "year": 2015,
+      "actors": [
+        {
+          "fName": "Michael",
+          "lName": "Jordan"
+        },
+        {
+
+          "fName": "Sylvester",
+          "lName": "Stallone"
+        },
+        {
+          "fName": "Tessa",
+          "lName": "Thompson"
         }
       ]
     }
