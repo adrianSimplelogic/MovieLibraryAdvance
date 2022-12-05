@@ -21,8 +21,7 @@ public class MovieLibrary {
     public void getMoviesFromTo(int s, int e) {
         for (Movie movies : movies) {
             if (movies.getYear() >= s && movies.getYear() <= e) {
-                System.out.println(movies.getTitle() + "(" + movies.getYear() + ")");
-                System.out.println("========================================");
+                System.out.println("- "+movies.getTitle() + "(" + movies.getYear() + ")");
             }
         }
     }
@@ -30,14 +29,13 @@ public class MovieLibrary {
     public void getRandomMovie() {
         int randomIndex = (int) (Math.random() * movies.size());
         System.out.println(movies.get(randomIndex).toString());
-        System.out.println("========================================");
+
     }
 
     public void findMovies(String fn, String ln) {
         for (Movie movie : movies) {
             if (movie.getActors().toString().contains(fn) && movie.getActors().toString().contains(ln)) {
-                System.out.println(movie);
-                System.out.println("========================================");
+                System.out.println("- "+movie.getTitle());
             }
         }
         System.out.println("Koniec wyników");
